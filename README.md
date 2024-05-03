@@ -1,0 +1,1 @@
+# A web app CD pipeline configuration targeting ArgoCD as GitOps tool
